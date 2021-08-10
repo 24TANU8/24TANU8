@@ -11,7 +11,14 @@ You can click the Preview link to take a look at your changes.
 Welcome to KIARA Kitchen:
 
 
-Masala dosa
+Masala dosa   
+
 Palak paratha
+
+
 Zunka Bhakar
-  
+
+
+Batata wada
+
+Sambhar wada
